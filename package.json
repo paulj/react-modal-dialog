@@ -25,7 +25,7 @@
     "lodash": "^3.9.3",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
-    "react-center-component": "git://github.com/paulj/react-center-component.git#1e59768"
+    "react-center-component": "git://github.com/paulj/react-center-component.git#07796cc"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
